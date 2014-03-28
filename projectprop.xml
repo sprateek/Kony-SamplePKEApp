@@ -1,0 +1,18 @@
+<properties>
+    <attributes name="project.type" value="js"/>
+    <attributes name="appversionkey" value="1.0.0"/>
+    <attributes name="mwportkey" value="80"/>
+    <attributes name="winmangotiletitlekey" value="KonySamplePKEApp1"/>
+    <attributes name="mwaddrkey" value="10.211.55.3"/>
+    <attributes name="isNewAppWithRespectToAndroidPackageName" value="true"/>
+    <attributes name="createdgaversion" value="5.0.0"/>
+    <attributes name="build" value="debug"/>
+    <attributes name="currentgaversion" value="5.0.43.GA_v201311291137"/>
+    <attributes name="appidkey" value="KonySamplePKEApp1"/>
+    <attributes name="mwhttpsportkey" value="443"/>
+    <attributes name="apppackagekey" value="com.orgname.KonySamplePKEApp1"/>
+    <attributes name="startupformkey" value="frmHome"/>
+    <attributes name="vendornamekey" value="KonyLabs"/>
+    <attributes name="appnamekey" value="KonySamplePKEApp1"/>
+    <attributes name="APPLICATION_THEME" value="default"/>
+</properties>
